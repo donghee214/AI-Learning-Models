@@ -1,5 +1,5 @@
 # AI-Learning-Models
-Assignment 2 - Implementing Markov Decision Processes and Reinforcement Learning with Stochiastic Motion
+Implementing Markov Decision Processes and Reinforcement Learning with Stochiastic Motion
 
 Extracting Optimal Policies with known Models & Reward (Solving MDPs):
   - User inputs value for discounting future reward (gamma)
