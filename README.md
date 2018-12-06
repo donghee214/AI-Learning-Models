@@ -12,3 +12,5 @@ Learning Most Optimal Actions without a known Model (Reinforcement Learning):
   - Through trial and error accumulate Q-values, choosing its current best Q-Value action
   - Choose an randomized action throughout this process epsilon times
   - Approximate Q-learning is then implemented by adding weights to each state
+  
+  
